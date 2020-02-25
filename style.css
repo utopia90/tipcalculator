@@ -1,0 +1,31 @@
+html{
+    text-align:  center;
+}
+
+#calculator-container{
+    font-family: sans-serif; 
+    font-size: 18px; 
+    font-weight: 400; 
+    color: #ffffff; 
+    background:#ee0467;
+    width: 40%;
+    height: 90%;
+    margin-left: 450px;
+
+      }
+
+#tipcalculatortitle{
+
+    background-color: greenyellow;
+    color:purple;
+}
+
+.question{
+    background-color: lightpink;
+    color:purple;
+}
+
+#display-tip{
+    background-color: lime;
+    color:purple
+}
